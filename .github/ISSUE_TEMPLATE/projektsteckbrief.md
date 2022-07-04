@@ -11,11 +11,9 @@ assignees: ''
 **Art des Projekts:** 
 z.B. Wohnungsbau, Industriebau, Krankenhausbau, …
 
-**Beteiligte Fachplaner (S&D) + Rolle im Projekt:**
-Auflistung der Fachplaner nach VDI-Vorgaben aus Blat 2552-11.2 (Erstellender, Prüfender, Koordinierender), ggf. auch mit Nennung der beteiligten Planungsbüros
-
-**Verwendete Software inkl. Version pro Fachplaner:**
-Bitte nennen Sie hier die eingesetzte Software, die beim Bearbeiten und Verwalten der Schlitz- und Durchbruchsvorschläge verwendet worden sind. 
+**Beteiligte Fachplaner (S&D) + Rolle im Projekt + Verwendete Software inkl. Version:**
+Auflistung der Fachplaner (z.B. nach VDI-Vorgaben aus Blatt 2552-11.2: Erstellender, Prüfender, Koordinierender), ggf. auch mit Nennung der beteiligten Planungsbüros
+Bitte nennen Sie auch die eingesetzte Software, die beim Bearbeiten und Verwalten der Schlitz- und Durchbruchsvorschläge verwendet worden sind. 
 
 **Positive Erfahrungen:**
 Kurze Beschreibung der gut funktionierenden Schritte des S&D Workflows.
