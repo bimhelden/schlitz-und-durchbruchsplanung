@@ -1,4 +1,4 @@
-# schlitz-und-durchbruchsplanung
+# Schlitz- und Durchbruchsplanung
 Wofür gibt es dieses github?
 Zentrale Ablage für Erfahrungen mit dem BIM-basierten Workflow für Schlitz- und Durchbruchsplanung (ursprünglicher Workflow wurde im Zeitraum von ... bis ... entwickelt und ist mittlerweile als VDI-Norm Blatt 2552 11.2 veröffentlicht worden)
 
