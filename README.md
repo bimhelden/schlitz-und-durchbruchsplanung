@@ -7,11 +7,11 @@ Wie kann dieses github genutzt werden?
 
 Wofür gibt es dieses github?
 
-Zentrale Ablage für Erfahrungen mit dem BIM-basierten Workflow für Schlitz- und Durchbruchsplanung (ursprünglicher Workflow wurde im Zeitraum von Oktober 2017 bis ... entwickelt und ist mittlerweile als VDI-Norm Blatt 2552 11.2 veröffentlicht worden)
+Zentrale Ablage für Erfahrungen mit dem BIM-basierten Workflow für Schlitz- und Durchbruchsplanung (ursprünglicher Workflow wurde im Zeitraum von 2017 bis 2020 entwickelt und ist mittlerweile als VDI-Norm Blatt 2552 11.2 veröffentlicht worden)
 
 Wie werden die Informationen verwendet?
 
-Auf dem Blog BIM-Helden wird ein "Leitfaden zur IFC-basierten Schlitz- und Durchbruchsplanung" veröffentlicht und aktualisiert, damit der Prozess der BIM-basierten Schlitz- und Durchbruchsplanung in möglich vielen Bauprojekten effizient gestaltet werden kann und nicht jedes Mal neu durchdacht werden muss
+Auf dem Blog BIM-Helden wird begleitend zur VDI 2552 11.2 ein "Leitfaden zur IFC-basierten Schlitz- und Durchbruchsplanung" mit praktischen Hinweisen veröffentlicht und aktualisiert, damit der Prozess der BIM-basierten Schlitz- und Durchbruchsplanung in möglich vielen Bauprojekten effizient gestaltet werden kann und nicht jedes Mal neu durchdacht werden muss
 
 Veröffentlichung siehe hier:
 
