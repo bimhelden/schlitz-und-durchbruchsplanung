@@ -4,6 +4,7 @@ Zentrale Ablage für Erfahrungen mit dem BIM-basierten Workflow für Schlitz- un
 
 Wie kann dieses github genutzt werden?
 1. Reiter Issues auswählen
-2. Projektsteckbrief ausfüllen
+2. 'New Issue"
+3. Projektsteckbrief ausfüllen
 
 Wie werden die Informationen verwendet?
