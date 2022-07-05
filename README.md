@@ -1,6 +1,6 @@
 # Schlitz- und Durchbruchsplanung
 Wie kann dieses github genutzt werden?
-1. Reiter Issues auswählen
+1. [Reiter Issues](https://github.com/bimhelden/schlitz-und-durchbruchsplanung/issues) auswählen - dort können auch die bereits dokumentierten Erfahrungen eingesehen werden
 2. 'New Issue' öffnen
 3. Projektsteckbrief mit 'Get started' öffnen
 4. Erfahrungen aus einem Projekt eintragen, ggf. Anhänge beifügen und bestätigen
